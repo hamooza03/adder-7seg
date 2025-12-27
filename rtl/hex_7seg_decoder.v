@@ -1,6 +1,5 @@
-module hex_7seg_decoder
-
-    (input [3:0] in,
+module hex_7seg_decoder(
+     input [3:0] in,
      output o_a,
      output o_b,
      output o_c,
