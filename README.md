@@ -2,7 +2,7 @@
 
 This project implements a 4-bit ripple-carry adder on an FPGA and displays the decimal result on **two 7-segment displays**.  
 
----
+
 
 ## 🧩 Features
 - ✔️ 4-bit + 4-bit Ripple-Carry Adder  
@@ -10,7 +10,6 @@ This project implements a 4-bit ripple-carry adder on an FPGA and displays the d
 - ✔️ Binary → BCD conversion  
 - ✔️ Tens + Ones decimal digits
 
----
 
 ## 🗂️ File Overview
 | File | Description |
