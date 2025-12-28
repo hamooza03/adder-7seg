@@ -1,7 +1,6 @@
 # 4-Bit Adder to 7-Segment Display (FPGA)
 
-This project implements a **4-bit ripple-carry adder** on an FPGA and displays the decimal result on **two 7-segment displays**.  
-Two 4-bit operands (0–15 each) are added, the binary sum (0–30) is converted to **decimal BCD**, and the output is shown on HEX displays.
+This project implements a 4-bit ripple-carry adder on an FPGA and displays the decimal result on **two 7-segment displays**.  
 
 ---
 
@@ -9,9 +8,7 @@ Two 4-bit operands (0–15 each) are added, the binary sum (0–30) is converted
 - ✔️ 4-bit + 4-bit Ripple-Carry Adder  
 - ✔️ Supports values 0 → 30  
 - ✔️ Binary → BCD conversion  
-- ✔️ Tens + Ones decimal digits  
-- ✔️ Drives dual 7-segment displays  
-- ✔️ Fully synthesizable Verilog
+- ✔️ Tens + Ones decimal digits
 
 ---
 
